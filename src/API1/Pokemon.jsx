@@ -23,6 +23,7 @@ export const Pokemon = () => {
     })
     return (
         <>
+        <h1>HEllo yashspeaking </h1>
         <h1>On Number <span style={{color:'Pink'}}>{num}</span></h1>
         <h1>Hello, I'm <span style={{color:'yellow',textTransform:'capitalize'}}>{Name}</span></h1>
         <h1>My Power is <span style={{color:'Red', textTransform:'capitalize'}}>{moves}</span></h1>
